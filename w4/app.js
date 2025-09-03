@@ -1,4 +1,7 @@
-// 
+// prompt used for ChatGPT to help me connect the dots:
+//Please explain to me in simple terms how do I make my JS connect to my HTML. Here is my code, am I missing any steps? 
+// If I am, explain why and the reason why it's important
+
 console.log('JS is connected and running');
 
 const coolTimeform = document.getElementById(`coolTime`);
